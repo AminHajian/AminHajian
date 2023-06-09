@@ -21,7 +21,7 @@ Hello! My name is Amin and I am currently studying Computer Engineering at the U
 
 
 ## Connect with me  
-<a href="[in/amin-hajian-30b37726a](https://www.linkedin.com/in/amin-hajian-30b37726a)" target="_blank">
+<a href="https://www.linkedin.com/in/amin-hajian-30b37726a" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
