@@ -1,21 +1,17 @@
-<img align=right alt="GIF" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="350"/>
+# Introduction 👋
 
-# About Me:
+Hi there! My name is  Amin Hajian, and I am currently a Computer Engineering undergraduate student at the University of Tehran. I have a strong passion for data science and have been actively exploring various aspects of this field.
 
-Hello! My name is Amin and I am currently studying Computer Engineering at the University of Tehran.
+## Skills 🚀
 
-## Skills
-
+- Python
 - Machine Learning
-- Python programming
 - SQL
 
-## Education
+## Projects 📂
+Feel free to explore my GitHub repositories for projects and examples of my work. If you have any questions or suggestions, I would be happy to connect and discuss further.
 
-- University of Tehran, Computer Engineering
-
-
-
+Let's collaborate and leverage the power of data science to drive impactful solutions! 🌟
 
 
 
@@ -25,5 +21,3 @@ Hello! My name is Amin and I am currently studying Computer Engineering at the U
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-
-
