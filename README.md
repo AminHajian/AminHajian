@@ -7,6 +7,7 @@ Hi there! My name is  Amin Hajian, and I am currently a Computer Engineering und
 - Python
 - Machine Learning
 - SQL
+- Data Scraping
 
 ## Projects 📂
 Feel free to explore my GitHub repositories for projects and examples of my work. If you have any questions or suggestions, I would be happy to connect and discuss further.
